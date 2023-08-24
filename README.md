@@ -1,1 +1,1 @@
-This repository contains files of a replica of YouTube for practice of using HTML & CSS
+This repository contains files of a replica of https://youtube.com as practice using HTML & CSS
